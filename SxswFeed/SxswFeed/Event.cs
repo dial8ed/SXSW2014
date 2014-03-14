@@ -27,10 +27,10 @@ namespace SxswFeed.Tests
 //}
     public class Event
     {
-        [NonSerialized] private string _title;
-        [NonSerialized] string _date;
-        [NonSerialized] string _time;
+        
+
         private dynamic _jsonObject = new ExpandoObject();
+        public dynamic JsonObject { get { return _jsonObject; } } 
 
         private Event()
         {
@@ -98,9 +98,7 @@ namespace SxswFeed.Tests
                 this._jsonObject.Duration = timeDiff;
             }            
         }
-
-        public dynamic JsonObject { get { return _jsonObject; }} 
-           
+                  
         private string[] MapTitleToIndicies(string title)
         {
             var comma = char.Parse(",");
