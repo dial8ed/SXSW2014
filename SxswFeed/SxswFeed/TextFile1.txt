@@ -1,0 +1,46 @@
+Justin
+ 
+I have a call on my restful endpoint that returns a blank object per item. We'd be using this to populate the events collection in my DB, and the endpoint is at the following address: http://pepdisnappi.cloudapp.net/PencilthisAPI/api/Event/?ID=00000000-0000-0000-0000-000000000000.
+ 
+I'll let you know if you need an API key for anything, right now you don't.
+ 
+Since you have no clue what a "localized datum" should be: its the title and description of an event, here's a sample that is fully populated. Also in the data model below I have added indices. I'm going to use these for keyword searching around events. :  
+{
+    "Data": [],
+    "StartTime": 0,
+    "Duration": 0,
+    "Comments": [],
+    "Attendees": [],
+    "RecurringType": 0,
+    "Url": "http://www.sxsw.com",
+    "Location": {},
+    "LocalizedDatum": {
+        "Title": "SXSW",
+        "Description": "South by Southwestey stuff"
+    },
+    "Security": { "Name": "", "MemberOf": 0, "ViewableBy": 0 }
+    "ID": "880C378B-75C3-4AD3-97C7-1C1FAF3FAF31",
+    "Indices": ["Awesome", "Cool", "Event"]
+}
+ 
+The only thing I think you need to change is to get that data into this format, populate a guid for each, and add search indices based off of descriptive content. 
+ 
+Thanks for the quick response man, you're a wizard. Looks pretty close.
+
+
+
+
+//    "Data": [],
+        public object Data { get; set; }
+        
+        //    "StartTime": 0,
+        public string StartTime { get; set; }
+        
+        //    "Duration": 0,
+        public string Duration { get; set; }
+
+        //    "Comments": [],
+        public List<String> Comments { get; set; }
+
+        //    "Attendees": [],
+        public List<string> Attendees { get; set; }

@@ -1,0 +1,11 @@
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.Tests.dll
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.Tests.pdb
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\nunit.framework.dll
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\nunit.framework.xml
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\obj\Debug\SxswFeed.Tests.csprojResolveAssemblyReference.cache
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\obj\Debug\SxswFeed.Tests.dll
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\obj\Debug\SxswFeed.Tests.pdb
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\Newtonsoft.Json.dll
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\Newtonsoft.Json.xml
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.dll
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.pdb

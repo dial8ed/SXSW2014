@@ -1,0 +1,7 @@
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\bin\SxswFeed.dll
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\bin\SxswFeed.pdb
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\obj\Debug\SxswFeed.csprojResolveAssemblyReference.cache
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\obj\Debug\SxswFeed.dll
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\obj\Debug\SxswFeed.pdb
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\bin\Newtonsoft.Json.dll
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\bin\Newtonsoft.Json.xml

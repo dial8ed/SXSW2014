@@ -1,0 +1,6 @@
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\SxswFeed.Console\bin\Debug\SxswFeed.Console.exe.config
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\SxswFeed.Console\bin\Debug\SxswFeed.Console.exe
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\SxswFeed.Console\bin\Debug\SxswFeed.Console.pdb
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\SxswFeed.Console\obj\Debug\SxswFeed.Console.csprojResolveAssemblyReference.cache
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\SxswFeed.Console\obj\Debug\SxswFeed.Console.exe
+R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed\SxswFeed.Console\obj\Debug\SxswFeed.Console.pdb
