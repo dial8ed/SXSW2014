@@ -9,3 +9,14 @@ R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\Newtonsoft.Json.d
 R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\Newtonsoft.Json.xml
 R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.dll
 R:\User\Source\Dial8ed\Sites\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.pdb
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.Tests.dll
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.Tests.pdb
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\bin\Debug\Newtonsoft.Json.dll
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\bin\Debug\nunit.framework.dll
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.dll
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\bin\Debug\SxswFeed.pdb
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\bin\Debug\Newtonsoft.Json.xml
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\bin\Debug\nunit.framework.xml
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\obj\Debug\SxswFeed.Tests.csprojResolveAssemblyReference.cache
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\obj\Debug\SxswFeed.Tests.dll
+R:\User\Documents\GitHub\SXSW2014\SxswFeed\SxswFeed.Tests\obj\Debug\SxswFeed.Tests.pdb

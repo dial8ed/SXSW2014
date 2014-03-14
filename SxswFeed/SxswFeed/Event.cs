@@ -77,7 +77,7 @@ namespace SxswFeed.Tests
             var newEvent = new Event();
             newEvent._jsonObject.LocalizedDatum.Title = title;
             newEvent._jsonObject.LocalizedDatum.Description = title;
-            newEvent.MapTitleToIndicies(title);
+            newEvent.MapTitleToIndices(title);
             newEvent.MapTimeAndDuration(time);
            
             return newEvent;
@@ -99,7 +99,7 @@ namespace SxswFeed.Tests
             }            
         }
                   
-        private string[] MapTitleToIndicies(string title)
+        private string[] MapTitleToIndices(string title)
         {
             var comma = char.Parse(",");
             var space = char.Parse(" ");
